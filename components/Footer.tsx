@@ -147,7 +147,7 @@ export default function Footer() {
                 {APP_NAME}
               </span>
             </Link>
-            <p className="text-sm text-gray-400 leading-relaxed max-w-xs">
+            <p className="text-sm text-gray-400 leading-relaxed max-w-xs" style={{ fontFamily: "Geist", fontSize: "18px" }}>
               {APP_TAGLINE}. Curated products across fashion, tech, and home goods. Fast shipping, easy returns, real value.
             </p>
             <div className="flex items-center gap-3 mt-6">
