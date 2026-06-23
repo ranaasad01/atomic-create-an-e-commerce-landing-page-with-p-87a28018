@@ -345,7 +345,7 @@ export default function HomePage() {
             <motion.div variants={fadeInUp}>
               <span className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-orange-100 text-orange-600 text-sm font-semibold border border-orange-200">
                 <Sparkles className="w-3.5 h-3.5" />
-                Summer Sale — Up to 50% Off
+                Summer Sale
               </span>
             </motion.div>
 
