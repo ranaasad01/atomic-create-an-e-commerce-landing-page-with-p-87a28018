@@ -472,6 +472,7 @@ export default function HomePage() {
                   whileHover={{ y: -6 }}
                   transition={{ duration: 0.3 }}
                   className="rounded-2xl overflow-hidden shadow-[0_8px_32px_rgba(0,0,0,0.12)] border border-black/5 aspect-[4/3]"
+                style={{ fontSize: "19px" }}
                 >
                   <img
                     src="https://m.media-amazon.com/images/I/715olWL+xXL._AC_UF894,1000_QL80_.jpg"
