@@ -18,7 +18,7 @@ export type Product = {
 };
 
 // ─── Brand constants ───────────────────────────────────────────────────────────
-export const APP_NAME = "Zest Shop";
+export const APP_NAME = "Zest store";
 export const APP_TAGLINE = "Fresh Finds, Bold Prices";
 export const ACCENT = "#f97316"; // orange-500
 

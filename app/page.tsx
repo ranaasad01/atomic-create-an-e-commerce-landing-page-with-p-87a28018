@@ -25,7 +25,7 @@ const featuredProducts = [
     rating: 4.8,
     reviewCount: 2341,
     category: "Electronics",
-    image: "https://m.media-amazon.com/images/I/61RahTQtAqL._AC_UF894,1000_QL80_.jpg",
+    image: "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/assets/87a28018-9657-46b5-a8d4-69bfcba3402a/881e51a9854e4c509348b3f8109c5419.png",
     badge: "Best Seller",
     isSale: true,
   },
