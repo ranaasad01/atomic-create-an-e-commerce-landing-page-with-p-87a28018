@@ -406,6 +406,7 @@ export default function HomePage() {
                   document.querySelector("#deals")?.scrollIntoView({ behavior: "smooth" });
                 }}
                 className="inline-flex items-center gap-2 px-7 py-3.5 rounded-xl bg-white hover:bg-gray-50 text-gray-800 font-semibold text-base border border-black/10 transition-colors duration-200 shadow-[0_1px_2px_rgba(0,0,0,0.04)]"
+              style={{ color: "#136be7", backgroundColor: "#010509" }}
               >
                 View Deals
               </motion.a>
