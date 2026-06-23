@@ -392,7 +392,7 @@ export default function HomePage() {
                   document.querySelector("#products")?.scrollIntoView({ behavior: "smooth" });
                 }}
                 className="inline-flex items-center gap-2 px-7 py-3.5 rounded-xl bg-orange-500 hover:bg-orange-600 text-white font-semibold text-base transition-colors duration-200 shadow-[0_4px_16px_rgba(249,115,22,0.4)]"
-              style={{ color: "#1c0303" }}
+              style={{ color: "#1c0303", fontSize: "23px" }}
               >
                 Shop Now
                 <ArrowRight className="w-4 h-4" />
