@@ -443,7 +443,7 @@ export default function HomePage() {
                 className="rounded-2xl overflow-hidden shadow-[0_8px_32px_rgba(0,0,0,0.12)] border border-black/5 aspect-[3/4]"
               >
                 <img
-                  src="https://titoaistorageaccount.blob.core.windows.net/titoai-storage/87a28018-9657-46b5-a8d4-69bfcba3402a/images/uploaded-1782220569947-j2zsr.png?v=1782220570785"
+                  src="https://titoaistorageaccount.blob.core.windows.net/titoai-storage/87a28018-9657-46b5-a8d4-69bfcba3402a/images/uploaded-1782221657676-0kjfwa.png?v=1782221658646"
                   alt="Wireless Headphones"
                   className="w-full h-full object-cover"
                   onError={(e) => {
